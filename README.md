@@ -1,2 +1,2 @@
-# multiomics-tutorials
-Tutorials for multimodal omics data analysis
+# Tutorials for multimodal omics data analysis
+
