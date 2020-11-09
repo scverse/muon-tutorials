@@ -6,6 +6,10 @@ This repository contains examples showcasing processing and interpretation of mu
 
 - [These tutorials on 10k PBMC cells](single-cell-rna-atac/pbmc10k) demonstrate how to work with chromatin accessibility and gene expression data from individual cells.
 
+## Biomedical applications
+
+- [Chronic lymphocytic leukemia (CLL) notebook](CLL.ipynb) gives a glimpse of the utility of multi-omics data integration in biomedical applications.
+
 # Other resources
 
 For the list of software packages, you might find useful the [awesome multi-omics](https://github.com/mikelove/awesome-multi-omics) repository.
