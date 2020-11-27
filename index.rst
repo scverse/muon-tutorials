@@ -11,5 +11,6 @@ muon tutorials
    :caption: Tutorials
 
    single-cell-rna-atac/index
+   cite-seq/index
    CLL.ipynb
    MEFISTO_evodevo.ipynb
