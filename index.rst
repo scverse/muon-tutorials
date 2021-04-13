@@ -12,5 +12,7 @@ muon tutorials
 
    single-cell-rna-atac/index
    cite-seq/index
+   mefisto/index
    CLL.ipynb
-   MEFISTO_evodevo.ipynb
+
+``muon`` documentation `can be found here <https://muon.readthedocs.io/>`_.

@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'multi-omics-tutorials'
-copyright = '2020, Danila Bredikhin'
+project = 'muon-tutorials'
+copyright = '2020 – 2021, Danila Bredikhin et al.'
 author = 'Danila Bredikhin'
 
 
