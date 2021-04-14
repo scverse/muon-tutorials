@@ -1,6 +1,6 @@
 # Tutorials for multimodal omics data analysis
 
-This repository contains examples showcasing processing and interpretation of multimodal omics data.
+This repository contains examples showcasing processing and interpretation of multimodal omics data using [muon](https://github.com/gtca/muon).
 
 ## Single-cell ATAC and gene expression
 
@@ -9,6 +9,10 @@ This repository contains examples showcasing processing and interpretation of mu
 ## CITE-seq
 
 - [This tutorial on 5k PBMC cells](cite-seq/1-CITE-seq-PBMC-5k.ipynb) describes how to process CITE-seq data (including antibody-derived tags counts normalisation) and how to integrate surface protein abundance and gene expression.
+
+## Spatiotemporal omics
+
+- [These tutorials](mefisto/) show how smooth factors can be learnt, across time and space, with models such as [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO).
 
 ## Biomedical applications
 
