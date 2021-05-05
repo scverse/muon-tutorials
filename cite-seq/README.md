@@ -1,4 +1,4 @@
-# Single-cell CITE-seq integration in Python
+# Single-cell CITE-seq integration
 
 CITE-seq is a method for cellular indexing of transcriptomes and epitopes by sequencing. CITE-seq datasets comprise transcriptome-wide measurements for single cells (gene expression) as well as surface protein level information, typically for a few dozens of proteins. The method is described in [Stoeckius et al., 2017](https://www.nature.com/articles/nmeth.4380) and also [on the cite-seq.com website](https://cite-seq.com/).
 
