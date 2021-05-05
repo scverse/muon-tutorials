@@ -1,4 +1,4 @@
-# Single-cell RNA-seq and ATAC-seq integration in Python
+# Single-cell RNA-seq and ATAC-seq integration
 
 Information on joint gene expression and open chromatin profiling [can be found here](https://www.10xgenomics.com/products/single-cell-multiome-atac-plus-gene-expression/).
 
