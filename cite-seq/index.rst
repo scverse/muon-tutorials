@@ -15,4 +15,5 @@ These notebooks cover different CITE-seq datasets:
    :maxdepth: 3
 
    1-CITE-seq-PBMC-5k.ipynb
+   2-CITE-seq-PBMC-5k-Weighted-Neighbours.ipynb
 
