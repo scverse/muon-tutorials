@@ -10,4 +10,6 @@ Data processing and analysis workflow is split into multiple chapters.
 
 1. [Multimodal Omics Data Integration](3-Multimodal-Omics-Data-Integration.ipynb). This notebook demonstrates how multiple modalities can be combined in a single Python workflow and how multi-omics methods such as [multi-omics factor analysis (MOFA)](https://github.com/bioFAM/MOFA2) can be applied for data analysis and interpretation.
 
+There are also notebooks showcasing specific details and alternative processing steps.
 
+- [Gene Expression Processing using Pearson residuals](1.1-Gene-Expression-Processing-with-Pearson-Residuals.ipynb) shows how normalization strategy presented by [Lause et al.](https://www.biorxiv.org/content/10.1101/2020.12.01.405886) can be used when working with RNA counts.
