@@ -1,6 +1,6 @@
 # Tutorials for multimodal omics data analysis
 
-This repository contains examples showcasing processing and interpretation of multimodal omics data using [muon](https://github.com/gtca/muon).
+This repository contains examples showcasing processing and interpretation of multimodal omics data using [muon](https://github.com/scverse/muon).
 
 ## Single-cell ATAC and gene expression
 
