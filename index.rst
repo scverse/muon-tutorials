@@ -12,6 +12,7 @@ muon tutorials
 
    single-cell-rna-atac/index
    cite-seq/index
+   trimodal/index
    mefisto/index
    CLL.ipynb
 
